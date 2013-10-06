@@ -4,21 +4,21 @@ jp
 Repozytorium do zajęć z języków programowania
 
 ## Zmiana hasła
-*** sh
+```sh
 passwd
-***
+```
 
-Być może trzeba będzie zalogować się ma Sigmę:
+## Być może trzeba będzie zalogować się ma Sigmę:
 
-***sh
+```sh
 ssh mpiatek@sigma.ug.edu.pl
-***
+```
 
-Przykładowy program w C:
+## Przykładowy program w C:
 
-***c
+```c
 #include<stdio.h>
 main(){
 printf("Hello world");
 }
-***
+```

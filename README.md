@@ -4,7 +4,7 @@ jp
 Repozytorium do zajęć z języków programowania
 
 ## Zmiana hasła
-***sh
+*** sh
 passwd
 ***
 
